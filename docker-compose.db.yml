@@ -1,4 +1,6 @@
+# 개발 환경에서만 사용합니다.
 version: '3.8'
+
 services:
   db:
     # Docker Hub에서 이미지 다운로드
