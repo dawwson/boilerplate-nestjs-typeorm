@@ -3,5 +3,6 @@ export interface IDbConfig {
   port: number;
   username: string;
   password: string;
+  database: string;
   synchronize: boolean;
 }
